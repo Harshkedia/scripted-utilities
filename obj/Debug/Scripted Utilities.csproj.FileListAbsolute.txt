@@ -1,5 +1,0 @@
-C:\Users\HKedia\Desktop\Scripted Utilities\bin\Scripted Utilities.dll
-C:\Users\HKedia\Desktop\Scripted Utilities\bin\Scripted Utilities.pdb
-C:\Users\HKedia\Desktop\Scripted Utilities\obj\Debug\Scripted Utilities.csproj.CoreCompileInputs.cache
-C:\Users\HKedia\Desktop\Scripted Utilities\obj\Debug\Scripted Utilities.dll
-C:\Users\HKedia\Desktop\Scripted Utilities\obj\Debug\Scripted Utilities.pdb
