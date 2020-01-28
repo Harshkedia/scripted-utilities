@@ -1,0 +1,14 @@
+node_modules
+.env
+.DS_STORE
+dist
+.vscode
+.xml
+*.xml
+*.iml
+*.vscode
+*.env
+*.DS_STORE
+/data
+data
+data/
