@@ -8,6 +8,7 @@ A set of commands in Rhino that make modelling tasks easier
 ## Implemented
 
 - ReduceCurve
+- MaterialAreas
 
 ## To Implement
 
