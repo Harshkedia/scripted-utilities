@@ -53,6 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DisableAutosave.cs" />
     <Compile Include="MaterialAreas.cs" />
     <Compile Include="ReduceCrv.cs" />
     <Compile Include="ScriptedUtilitiesPlugIn.cs" />
